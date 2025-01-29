@@ -74,7 +74,12 @@ the best case input value of key for binary search is the value at mid = left + 
 
 These results match my empirical results because linear search increases linearly as n gets larger
 
-//create graph with n as x and linear/binary as y
+
+
+![linear search](sp25-recitation-01-JaretSolomon/Screenshot 2025-01-28 at 7.37.56 PM.png)
+![binary search](sp25-recitation-01-JaretSolomon/Screenshot 2025-01-28 at 7.45.41 PM.png)
+
+
 
 
 
